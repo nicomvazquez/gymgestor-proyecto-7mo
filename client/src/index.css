@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Nunito", sans-serif;
+  font-family: "Roboto", sans-serif;
+}
+
+#root {
+  background-image: url(../public/fondo.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  min-height: 100vh;
+}

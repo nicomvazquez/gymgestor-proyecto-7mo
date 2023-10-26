@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+}
+
+.navbar {
+  background-color: #000000be;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  position: sticky;
+  top: 0;
+  width: 100%;
+  border-bottom: 2px solid #eefa48;
+}
+
+.title {
+  margin: 20px;
+  color: #fff;
+  font-size: 30px;
+}
+
+.logo {
+  width: 100px;
+}
+
+.button-container {
+  display: flex;
+  gap: 30px;
+}
+
+.button-container .link {
+  color: #eefa48;
+  font-size: 20px;
+  text-decoration: none;
+}

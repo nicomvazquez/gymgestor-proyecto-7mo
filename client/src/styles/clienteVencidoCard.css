@@ -1,0 +1,13 @@
+.client-expired-card{
+    background-color: #000000ab;
+    border: 3px solid #fa4848;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    width: 300px;
+    border-radius: 30px;
+    padding: 20px;
+    color: #fff;
+}

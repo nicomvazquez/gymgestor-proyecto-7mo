@@ -1,0 +1,33 @@
+.client-card{
+    background-color: #000000ab;
+    border: 3px solid #eefa48;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    width: 300px;
+    border-radius: 30px;
+    padding: 20px;
+    color: #fff;
+}
+
+.client-card .content-button{
+    display: flex;
+    gap: 20px;
+}
+
+.client-card .content-button .button-delete{
+    background-color: #ff5f5f;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.client-card .content-button .button-edit{
+    background-color: #5fa4ff;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+}
+
